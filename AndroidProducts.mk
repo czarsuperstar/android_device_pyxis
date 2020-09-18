@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/zenx_pyxis.mk
+    $(LOCAL_DIR)/freaky_pyxis.mk
 
 COMMON_LUNCH_CHOICES := \
-    zenx_pyxis-eng \
-    zenx_pyxis-userdebug \
-    zenx_pyxis-user
+    freaky_pyxis-eng \
+    freaky_pyxis-userdebug \
+    freaky_pyxis-user
