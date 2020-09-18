@@ -10,7 +10,7 @@
         "revision":     "still_alive"
     },
     {
-        "repository":   "HentaiKremul",
+        "repository":   "android_kernel_xiaomi_sdm710",
         "target_path":  "kernel/xiaomi/pyxis",
         "revision":     "still_alive"
     }
