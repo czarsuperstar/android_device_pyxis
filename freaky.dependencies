@@ -1,0 +1,17 @@
+[
+    {
+        "repository":   "device_xiaomi_pyxis",
+        "target_path":  "device/xiaomi/pyxis",
+        "revision":     "still_alive"
+    },
+    {
+        "repository":   "vendor_xiaomi_pyxis",
+        "target_path":  "vendor/xiaomi/pyxis",
+        "revision":     "still_alive"
+    },
+    {
+        "repository":   "HentaiKremul",
+        "target_path":  "kernel/xiaomi/pyxis",
+        "revision":     "still_alive"
+    }
+]
